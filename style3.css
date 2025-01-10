@@ -1,0 +1,25 @@
+ul {
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    list-style-type: none;
+    margin: auto;
+}
+li {
+    width: 400px;
+    padding: 5px 1px 1px 1px;
+    list-style: none;
+    font-size: 16px;
+    background-color: #f9f9f9;
+
+}
+
+.book-btn{
+    margin: none;
+    padding: 20px 30px;
+    width: 250px;
+    min-height: 20px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    cursor: pointer;
+}
